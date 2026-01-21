@@ -146,4 +146,4 @@ Este acuario interactivo es un excelente ejemplo de cómo **React puede utilizar
 - [] Añadir pin de usuario.
 
 # Imagen desde una URL
-[Microprocesador 6502](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.eyQ1Q9Sh_KHqBnf83-UuBQHaCs%3Fpid%3DApi&f=1&ipt=772211b9d930dd4112b53b8af3465f04ec3b437728134d7fedad7018de999f17&ipo=images)
+![Microprocesador 6502](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.eyQ1Q9Sh_KHqBnf83-UuBQHaCs%3Fpid%3DApi&f=1&ipt=772211b9d930dd4112b53b8af3465f04ec3b437728134d7fedad7018de999f17&ipo=images)
